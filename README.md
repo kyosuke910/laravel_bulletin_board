@@ -1,0 +1,2 @@
+# laravel_bulletin_board
+laravelで作る掲示板アプリ
